@@ -1,7 +1,7 @@
 # stringmerge → String Alternating Merge
 [![npm](https://img.shields.io/npm/l/stringmerge.svg)](https://github.com/artisin/stringmerge/blob/master/LICENSE.txt)
 [![npm](https://img.shields.io/npm/v/stringmerge.svg)](https://www.npmjs.com/package/stringmerge)
-[![wercker status](https://app.wercker.com/status/e388b87aecbfc99fb4b0abb9c16a602c/s/master "wercker status")](https://app.wercker.com/project/byKey/e388b87aecbfc99fb4b0abb9c16a602c)
+[![wercker status](https://app.wercker.com/status/a668f191696fe6b304f81c996a083c8c/s/master "wercker status")](https://app.wercker.com/project/byKey/a668f191696fe6b304f81c996a083c8c)
 [![David](https://img.shields.io/david/artisin/stringmerge.svg)](https://github.com/artisin/stringmerge/blob/master/package.json)
 
 
