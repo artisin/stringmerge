@@ -1,0 +1,27 @@
+{
+  "presets": [
+    ["env", {
+      "exclude": ["transform-regenerator"],
+      "useBuiltIns": "usage",
+      "debug": true,
+      "targets": {
+        "node": "6.11.4",
+        "browsers": ["last 2 versions"]
+      },
+    }]
+  ],
+  "plugins": [
+    ["fast-async", {
+      "spec":true
+    }],
+    ["transform-inline-environment-variables", {
+      "include": [
+        "NODE_ENV"
+      ]
+    }],
+    ["lodash", { "id": ["lodash"] }],
+    ["module-resolver", {
+      "root": ["."]
+    }]
+  ]
+}
